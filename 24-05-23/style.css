@@ -1,0 +1,40 @@
+
+*{
+    font-family: 'Caveat', cursive;}
+header{
+    width: 100%;
+    height: 80vh;
+    background-image: url('./img/pexels-tranmautritam-2194261.jpg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-size: 40px;
+}
+.principal{
+    text-align: justify;
+    margin: 30px;
+}
+
+.principal p{
+
+margin: 30px;
+}
+
+.principal article{
+    border: 2px dotted lightblue;
+    margin: 10px 50px;
+    padding: 20px;
+    text-align: center;
+}
+.principal h2{
+    text-align: center;
+    font-size: 30px;
+}
+
+.container-gal{
+    width: ;
+    height: 300px;
+    margin: 10px auto;
+}
+
+div
